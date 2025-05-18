@@ -1,6 +1,10 @@
 ## 🌟Hey there! 👋 I'm Arysma Sugiarto Wibowo — thanks for stopping by my GitHub profile!👋
 
 ![](img/header.jpg)
+- 🔭 I’m currently working on **@ArysDevStudio_**
+- 🌱 I’m currently learning [**Laravel**](https://laravel.com/) Framework
+-😎😎😎😎
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29jNWtndnE0cHRreW80MmplbjF0M2hkNHFwNDBxN2FoMnNocHhwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tx8UtrSC02lXO/giphy.gif)
 
 <!--
 **ArysmaSugiartoWibowo/ArysmaSugiartoWibowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on **@ArysDevStudio_**
-- 🌱 I’m currently learning [**Laravel**](https://laravel.com/) Framework
--😎😎😎😎
-![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29jNWtndnE0cHRreW80MmplbjF0M2hkNHFwNDBxN2FoMnNocHhwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tx8UtrSC02lXO/giphy.gif)
