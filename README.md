@@ -1,4 +1,5 @@
 ### 🌟 Hey there 👋 I’m Arysma Sugiarto Wibowo Welcome to a space where ideas take shape and creativity quietly lives between the lines of code.
+
 ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXM2eWdsbHEwMmFjZ2tidW5xa3ViZmpkMDM0MW1sY3BjN3Y0c3BtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif) 
 
 🔭 @ArysDevStudio_
@@ -110,7 +111,3 @@ Life is a continuous process of learning, refining chaos, and leaving behind som
     </td>
   </tr>
 </table>
-
-
-
-Thanks for stopping by!
