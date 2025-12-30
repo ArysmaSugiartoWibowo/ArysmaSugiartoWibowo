@@ -1,7 +1,7 @@
 ## 🌟Hey there! 👋 I'm Arysma Sugiarto Wibowo — thanks for stopping by my GitHub profile!👋
 
 ![](img/header2.png)
-![](https://pixabay.com/id/gifs/menari-tarian-penari-perayaan-21962) 
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXM2eWdsbHEwMmFjZ2tidW5xa3ViZmpkMDM0MW1sY3BjN3Y0c3BtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif) 
 
 🔭 @ArysDevStudio_
 
