@@ -1,7 +1,7 @@
 ## 🌟Hey there! 👋 I'm Arysma Sugiarto Wibowo — thanks for stopping by my GitHub profile!👋
 
 ![](img/header2.png)
-![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29jNWtndnE0cHRreW80MmplbjF0M2hkNHFwNDBxN2FoMnNocHhwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tx8UtrSC02lXO/giphy.gif) 
+![](https://pixabay.com/id/gifs/menari-tarian-penari-perayaan-21962) 
 
 🔭 @ArysDevStudio_
 
@@ -15,7 +15,7 @@ Life is a continuous process of learning, refining chaos, and leaving behind som
 📬 Let’s connect:
 📧 Email: arismana147@gmail.com
 
-💬 WhatsApp: Chat Me
+💬 WhatsApp: [Chat Me](https://wa.me/6282171737263)
 ###
 <table align="center">
   <tr>
